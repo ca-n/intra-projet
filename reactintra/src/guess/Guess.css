@@ -1,0 +1,11 @@
+.wide {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+.lessWide {
+    width: 33%;
+    text-align: center;
+    margin: auto;
+}
